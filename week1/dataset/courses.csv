@@ -1,0 +1,16 @@
+course_id,course_name,professor_id,start_date
+1,Economics 201,123,2025-05-06
+2,Intro to Math,132,2025-05-05
+3,Art 201,121,2025-05-01
+4,Foundations of Biology,132,2025-05-08
+5,Foundations of Physics,122,2025-05-01
+6,Foundations of Chemistry,126,2025-05-09
+7,Philosophy 201,121,2025-05-09
+8,Intro to Art,128,2025-05-07
+9,Foundations of Art,125,2025-05-01
+10,Advanced Philosophy,128,2025-05-08
+11,Chemistry 201,126,2025-05-08
+12,Chemistry 101,131,2025-05-09
+13,Intro to Physics,131,2025-05-01
+14,Intro to Philosophy,122,2025-05-09
+15,Chemistry 301,127,2025-05-04
